@@ -1,0 +1,1 @@
+[{"aggregation_first_degree": [{"segment_id": "S16", "failures": ["fail_P5", "fail_P9"]}]}, {"aggregation_second_degree": [{"segment_id": ["S16", "S3"], "failures": ["fail_P14", "fail_P5"]}, {"segment_id": ["S16", "S3"], "failures": ["fail_P14", "fail_P9"]}, {"segment_id": ["S3", "S4"], "failures": ["fail_P14", "fail_P20"]}]}]

@@ -1,0 +1,70 @@
+{
+    "set_1":
+    {
+        "network_type": "unreal",
+        "teams": [{
+            "id": "RT1",
+            "localisation": "J2",
+            "max_capacity": {
+                "clamps": 13,
+                "pipes": 2,
+                "other_stuff": 40
+            },
+            "stock_levels": {
+                "clamps": {
+                    "D1": 5,
+                    "D2": 4,
+                    "D3": 4
+                },
+                "pipes": {
+                    "D1": 1,
+                    "D2": 0,
+                    "D3": 1
+                },
+                "other_stuff": 30
+            }
+        },
+            {"id": "RT2",
+            "localisation": "J16",
+            "max_capacity": {
+                "clamps": 15,
+                "pipes": 10,
+                "other_stuff": 30
+            },
+            "stock_levels": {
+                "clamps": {
+                    "D1": 2,
+                    "D2": 2,
+                    "D3": 2
+                },
+                "pipes": {
+                    "D1": 2,
+                    "D2": 2,
+                    "D3": 2
+                },
+                "other_stuff": 25
+            }
+        },
+            {"id": "RT2",
+            "localisation": "J20",
+            "max_capacity": {
+                "clamps": 15,
+                "pipes": 0,
+                "other_stuff": 40
+            },
+            "stock_levels": {
+                "clamps": {
+                    "D1": 5,
+                    "D2": 5,
+                    "D3": 5
+                },
+                "pipes": {
+                    "D1": 0,
+                    "D2": 0,
+                    "D3": 0
+                },
+                "other_stuff": 30
+            }
+        }]
+    }
+}
